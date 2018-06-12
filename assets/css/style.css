@@ -1,0 +1,33 @@
+body {
+	background-image: url(../images/AbstractBackground.png);
+	background-size: auto;
+    /*opacity: 0.5;
+    filter: alpha(opacity=50);*/
+	}
+
+h1 {
+	color: red;
+}
+
+p {
+	background: rgba(157, 178, 182, 0.5); /* 0.2 adds opacity*/
+	color: black;
+	text-align: center;
+	border: 3px solid green; /* use solid instead of dashed for a solid border */
+	float: left;
+	width: 500px;
+}
+
+#buttons {
+	float: left;
+	padding-top: 25px;
+	padding-left: 25px;
+}
+
+
+
+footer {
+	clear: both;
+	text-align: center;
+}
+
