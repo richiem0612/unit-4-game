@@ -1,33 +1,83 @@
 body {
 	background-image: url(../images/AbstractBackground.png);
 	background-size: auto;
-    /*opacity: 0.5;
-    filter: alpha(opacity=50);*/
+	margin: 0px;
+	font-family: Arial, Helvetica, sans-serif
 	}
+
+.container {
+	float: left;
+}
 
 h1 {
 	color: red;
+	text-decoration: underline;
+	font-family: fantasy;
+	font-size: 50px;
 }
 
 p {
-	background: rgba(157, 178, 182, 0.5); /* 0.2 adds opacity*/
+	background: rgba(157, 178, 182, 0.5); /* 0.5 adds opacity*/
 	color: black;
 	text-align: center;
 	border: 3px solid green; /* use solid instead of dashed for a solid border */
-	float: left;
 	width: 500px;
+	font-weight: bold;
 }
 
-#buttons {
+h2 {
+	background: rgba(157, 178, 182, 0.5); /* 0.5 adds opacity*/
+	border: 3px solid green; /* use solid instead of dashed for a solid border */
 	float: left;
-	padding-top: 25px;
-	padding-left: 25px;
+	height: 150px;
+	width: 300px;
+	text-align: center;
+	margin-left: 25px;
+	padding-top: 50px;
 }
 
+h3 {
+	background: rgba(157, 178, 182, 0.5); /* 0.5 adds opacity*/
+	border: 3px solid green; /* use solid instead of dashed for a solid border */
+	float: left;
+	height: 150px;
+	width: 200px;
+	text-align: center;
+	margin-left: 10px;
+	padding-top: 20px;
+}
 
+.buttons {
+	background: rgba(157, 178, 182, 0.5); /* 0.5 adds opacity*/
+	border: 3px solid green;
+	margin-left: 25px;
+	float: left;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+h4 {
+	background: rgba(157, 178, 182, 0.5); /* 0.5 adds opacity*/
+	border: 3px solid green; /* use solid instead of dashed for a solid border */
+	float: left;
+	height: 100px;
+	width: 300px;
+	text-align: center;
+	margin-left: 25px;
+	padding-top: 30px;
+	margin-top: 8px;
+}
+
+img {
+	transition: all 1s; 
+}
+
+img:hover {
+	transform: scale(1.12);
+}
 
 footer {
 	clear: both;
 	text-align: center;
 }
-
