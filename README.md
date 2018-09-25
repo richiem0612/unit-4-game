@@ -1,6 +1,7 @@
 # Crystal-Collector
 
 Use the following link to get started Crystal Collector Game
+https://unknwndvlpr.github.io/unit-4-game/
 
 ## How to play?
 You will be given a random target number at the beginnig of the game.
