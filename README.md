@@ -20,4 +20,4 @@ You will be able to keep track of the number of games you have lost or won on th
 The values of each crystal and target number will change every time the game restarts.
 
 Screenshot
-![](./assets/images/crystalCollector.jpg)
+![](/images/crystalCollector.jpg)
