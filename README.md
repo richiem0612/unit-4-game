@@ -1,6 +1,7 @@
 # Crystal-Collector
 
 Use the following link to get started Crystal Collector Game
+https://unknwndvlpr.github.io/unit-4-game/
 
 ## How to play?
 You will be given a random target number at the beginnig of the game.
@@ -20,4 +21,4 @@ You will be able to keep track of the number of games you have lost or won on th
 The values of each crystal and target number will change every time the game restarts.
 
 Screenshot
-![](/images/crystalCollector.jpg)
+![](/assets/images/crystalCollector.jpg)
